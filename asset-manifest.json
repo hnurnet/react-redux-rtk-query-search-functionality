@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hnurnet/rtk-query/static/css/main.db62923b.css",
+    "main.js": "/hnurnet/rtk-query/static/js/main.be193fdb.js",
+    "static/js/453.c0fe2d4a.chunk.js": "/hnurnet/rtk-query/static/js/453.c0fe2d4a.chunk.js",
+    "index.html": "/hnurnet/rtk-query/index.html",
+    "main.db62923b.css.map": "/hnurnet/rtk-query/static/css/main.db62923b.css.map",
+    "main.be193fdb.js.map": "/hnurnet/rtk-query/static/js/main.be193fdb.js.map",
+    "453.c0fe2d4a.chunk.js.map": "/hnurnet/rtk-query/static/js/453.c0fe2d4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.be193fdb.js"
+  ]
+}
